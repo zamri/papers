@@ -1,0 +1,46 @@
+\documentclass[a4paper]{article}
+
+\usepackage{fontspec}
+\usepackage{xltxtra}
+\usepackage[]{arabxetex}
+\setmainfont{Minion Pro}
+
+
+\title{Jawi and Unicode}
+
+\author{Mohd Zamri Murah}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Information technology is becoming really multinational, supporting different languages, writing systems, and conventions. Many IT products are localizable to cater for local environments. Unicode is part of the technical basis that allow localization of IT products. Jawi is one of the script to write Malay language, the other being the roman alphabets. It is based on arabic script, written from right to left in cursive format, and with six additional characters. Unicode has make it possible for users to use Jawi in their daily computing environment. This paper describe some of the issues related to Jawi and Unicode and the future for Jawi.
+
+\end{abstract}
+
+\section{Introduction}
+
+Jawi is based on arabic script with 6 additional characters. It has been documented that the earliest malay  document in jawi was dated 1043 AD. Its uses flourished with the advance of Islamic in the malay achipelago. In the 1965, the goverment has make the roman alphabets as the official script for malay language, thus begin the decline of the usage of jawi script in writing and publication.
+
+\section{Develoment of six additional jawi characters}
+
+Jawi script is based on arabic script with six additional jawi characters; \textarab{چ ڠ ݢ ۏ ڤ ڽ }. All the jawi additional has complete Unicode support in Unicode version 4.1 in 2005. Thus, Unicode currently has complete support for Jawi. Prior to 2005, some characters for Jawi are missing, thus make it difficult to use Jawi in IT products.
+
+The character \textarab{ۏ} was introduced in 1983\cite{musa2006}. The character three-quarter \textarab{\raisebox{4pt}{ء}} was introduced. Observe the different for the character \textarab{ء} in the examples;
+\textarab{ءن} and \textarab{\raisebox{4pt}{ء}ن}. There are currently no Unicode mapping for three-quarter \textarab{\raisebox{4pt}{ء}}.
+
+\textarab{کمنڠءن کمنڠ\raisebox{4pt}{ء}ن}
+
+
+\raisebox{2pt}{L}\raisebox{-2pt}{A}.
+\section{Unicode}
+
+
+
+
+
+\cite{jukka2006}
+
+
+\bibliography{jawi-unicode}
+\bibliographystyle{plain}
+\end{document}

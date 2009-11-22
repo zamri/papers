@@ -1,0 +1,86 @@
+\documentclass[12pt,a4paper]{IEEEconf}
+
+\usepackage{graphicx}
+\usepackage{arabxetex}
+\usepackage{fontspec}%  font  selecting  commands
+\usepackage{xunicode}%  unicode  character  macros
+\usepackage{xltxtra}  %  a  few  fixes  and  extras
+%\usepackage{unicode-math}
+\defaultfontfeatures{Scale=MatchLowercase}
+\setmainfont[Mapping=tex-text]{Minion Pro}
+\setsansfont[Mapping=tex-text]{Myriad Pro}
+\setmonofont{Courier New}
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Adobe Arabic}
+
+\author{Mohd Zamri Murah\\
+\begin{affiliation}Pattern Recognition Group\\
+Center for Artificial Intelligence Technology\\
+Fakulti Teknologi Dan Sains Maklumat\\
+Universiti Kebangsaan Malaysia\\
+\end{affiliation}\\
+\email{zamri@ftsm.ukm.my}}
+
+
+\title{Jawi hamzah : issues and solutions}
+
+
+
+\begin{document}
+\maketitle
+\begin{abstract}
+The jawi script has a character hamzah \textarab{ء} which is  similar to the arabic hamzah but it's position s $3/4$ above the baseline. Currently, this $3/4$ hamzah is not coded in Unicode, thus unavailable in any standard Unicode fonts. This paper describe this issue and a few possible solutions.
+
+\end{abstract}
+
+\section{Introduction}
+
+Jawi is based on arabic script with 6 additional characters. It has been documented that the earliest malay  document in jawi was dated 1043 AD. Its uses flourished with the advance of Islamic in the malay achipelago. In the 1965, the goverment has make the roman alphabets as the official script for malay language, thus begin the decline of the usage of jawi script in writing and publication.
+
+
+Jawi script is based on arabic script with six additional jawi characters; \textarab{چ ڠ ݢ ۏ ڤ ڽ }. All the  additional jawi characters have complete Unicode support in Unicode version 4.1 in 2005.  Prior to 2005, there were no support for some Jawi characters Jawi such as \textarab{ۏ}
+
+The character \textarab{ۏ} was introduced in 1983\cite{musa2006}. The character three-quarter \textarab{\raisebox{4pt}{ء}} was introduced in 1983. Prior to that, this hamza is considered similar to \textarab{أ}. Observe the different position for the character \textarab{ء} in the examples;
+\begin{enumerate}
+\item \textarab{کبڠساءن} 
+\item \textarab{کبڠسا\raisebox{4pt}{ء}ن}
+\end{enumerate}
+
+There are currently no Unicode mapping for three-quarter \textarab{\raisebox{4pt}{ء}}.
+
+\section{Example of usage}
+See the subtle different position of  \textarab{ء} in the following jawi words;
+\begin{enumerate}
+\item \textarab{ کمنڠ\raisebox{4pt}{ء}ن}
+\item \textarab{کمنڠءن}
+\end{enumerate}
+ 
+The \textarab{ء} is shifted $3/4$ from the baseline in the first word. 
+
+\section{High hamza}
+
+Unicode has encoding for a character called \texttt{HIGH HAMZA} at \texttt{U+0674}. The size of the hamza is smaller. Compare the result from using the three type of hamza;
+\begin{enumerate}
+\item  \textarab{کبڠساءن} ; using regular hamza
+\item \textarab{کبڠسا\raisebox{4pt}{ء}ن} ; shift position
+\item \textarab{کبڠسا\char"0674ن} ; using high hamza
+\end{enumerate}
+%\raisebox{2pt}{L}\raisebox{-2pt}{A}.
+
+\section{Solutions}
+
+The issue of $3/4$ hamza could be solved either by;
+\begin{enumerate}
+\item request for $3/4$ hamza to be include in Unicode
+\item shift regular hamza $3/4$ up from the baseline
+\item use high hamza
+\end{enumerate}
+
+The best solution is to request $3/4$ hamza to be included in the Unicode. In the mean time, the use of shift position of regular hamza or high hamza is considered a temporary solution.
+
+
+
+
+
+
+
+\end{document}

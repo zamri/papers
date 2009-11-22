@@ -1,0 +1,113 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8
+
+% This is a simple template for a XeLaTeX document using the "article" class,
+% with the fontspec package to easily select fonts.
+
+\documentclass{article} % use larger type; default would be 10pt
+
+\usepackage{bidi}
+\usepackage{fontspec} % Font selection for XeLaTeX; see fontspec.pdf for documentation
+\defaultfontfeatures{Mapping=tex-text} % to support TeX conventions like ``---''
+\usepackage{xunicode} % Unicode support for LaTeX character names (accents, European chars, etc)
+\usepackage{xltxtra} % Extra customizations for XeLaTeX
+
+\setmainfont[Scale=1.4]{Minion Pro} % set the main body font (\textrm), assumes Charis SIL is installed
+\setsansfont{Myriad Pro}  % calibri
+\setmonofont{Courier New} % consolas, calibri
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.4]{Adobe Arabic}
+\usepackage{arabxetex}
+
+% other LaTeX packages.....
+\usepackage{geometry} % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper} % or letterpaper (US) or a5paper or....
+%\usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+\usepackage{graphicx} % support the \includegraphics command and options
+
+\title{Definitions}
+\date{} % Activate to display a given date or no date (if empty),
+         % otherwise the current date is printed 
+
+\begin{document}
+\maketitle
+
+\begin{itemize}
+\item[\textbf{character}] A member of a set of elements used for the organisation, control, or 
+representation of data. (ISO/IEC 10646-1: 
+2003)
+
+E.g \texttt{ARABIC LETTER ALEF},\texttt{ARABIC LETTER BEH}  (ISO/IEC 10646-1: 2003)
+
+\item[\textbf{glyph}] A recognizable abstract 
+graphic symbol which is independent of any 
+specific design. (ISO/IEC 9541-1: 1991) 
+
+e.g the glyph for the characters \texttt{ARABIC LETTER ALEF}, \texttt{ARABIC LETTER BEH}, \texttt{ARABIC LETTER TEH} are ; 
+{\fontspec[Script=Arabic, Scale=2]{Adobe Arabic} ا , ب , ت 
+}
+
+A character may have many different glyphs. e.g {\fontspec[Script=Arabic,Scale=2]{Adobe Arabic} ب}, {\fontspec[Script=Arabic,Scale=2]{Arabic Typesetting} ب}, {\fontspec[Script=Arabic,Scale=2]{Times New Roman} ب}, {\fontspec[Script=Arabic,Scale=2]{Arial} ب}
+
+
+\item[\textbf{font}] A collection of glyph images 
+having the same basic design, e.g. \textsf{Arabic Typesetting}, \textsf{Adobe Arabic}. (ISO/IEC 9541-1: 1991)
+
+font type \texttt{Adobe Arabic} \hskip 1cm {\fontspec[Script=Arabic,Scale=2]{Adobe Arabic} ساي سوکا جاوي}
+
+font type \texttt{Arabic Typesetting} \hskip 1cm  {\fontspec[Script=Arabic,Scale=2]{Arabic Typesetting} ساي سوکا جاوي}
+
+font type \texttt{Arial} \hskip 2cm  {\fontspec[Script=Arabic,Scale=2]{Arial} ساي سوکا جاوي}
+
+\item[\textbf{Coded character}] A character together with its coded representation. E.g The character \texttt{ARABIC LETTER ALEF} is coded \texttt{U+0627}. Each character has a unique code. (ISO/IEC 10646-1: 
+2003)
+\end{itemize}
+
+In information technology,  characters  are 
+abstract information elements in the domain 
+of coding for data representation and, in 
+particular, data interchange. 
+
+Coded character set standards assign numeric values, 
+character names, and representative (sample) images to each character contained in 
+a coded character set. Typically a character 
+is given a name, which also serves to differentiate it from the other characters of the 
+coded character set. 
+
+The precise semantics 
+and appearance of the information elements 
+in any given implementation are not defined 
+by those standards for coded character 
+sets. This apparent lack of definition is not 
+considered to be a defect in the standards. 
+Recognizing that the information may be 
+acted upon (deciphered, sorted, transformed, formatted, archived, presented, 
+etc.) by many different application proc-
+esses during its lifetime, standards for 
+coded character sets are defined as a basis 
+for information interchange.
+
+ Characters and  glyphs are closely related, 
+with many attributes in common and yet 
+with distinctions that make it essential that 
+they be managed in information processing 
+as separate entities. 
+
+The ISO/IEC 10646 
+standard recognizes the distinction between characters and their visual representation 
+by defining the term,  graphic symbol. The 
+graphic symbol of SC 2 standards and the 
+glyph image of SC 18 standards represent 
+equivalent concepts. 
+
+However, glyph and its 
+associated ISO/IEC 9541 terminology are 
+preferred when referring to presentation and 
+presentation processing.  
+%\section{}
+
+%\subsection{}
+
+
+
+\end{document}

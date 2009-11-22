@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (Web2C 2009)
+The top-level auxiliary file: jawi-keybard-layout.aux
+The style file: plain.bst
+Database file #1: jawi-keyboard-layout.bib
+Warning--to sort, need author, editor, or key in dan1988daftar
+Warning--empty author and editor in dan1988daftar
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            509 strings with 4258 characters,
+and the built_in function-call counts, 601 in all, are:
+= -- 53
+> -- 15
+< -- 0
++ -- 7
+- -- 4
+* -- 28
+:= -- 103
+add.period$ -- 7
+call.type$ -- 3
+change.case$ -- 10
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 30
+empty$ -- 64
+format.name$ -- 4
+if$ -- 127
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 2
+newline$ -- 16
+num.names$ -- 4
+pop$ -- 18
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 22
+stack$ -- 0
+substring$ -- 15
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 2
+while$ -- 4
+width$ -- 4
+write$ -- 29
+(There were 2 warnings)

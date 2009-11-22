@@ -1,0 +1,346 @@
+\documentclass[12pt,a4paper]{IEEEconf}
+
+\usepackage{graphicx}
+\usepackage{arabxetex}
+\usepackage{fontspec}%  font  selecting  commands
+\usepackage{xunicode}%  unicode  character  macros
+\usepackage{xltxtra}  %  a  few  fixes  and  extras
+%\usepackage{unicode-math}
+\defaultfontfeatures{Scale=MatchLowercase}
+\setmainfont[Mapping=tex-text]{Minion Pro}
+\setsansfont[Mapping=tex-text]{Myriad Pro}
+\setmonofont{Courier New}
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Adobe Arabic}
+
+\author{Mohd Zamri Murah\\
+\begin{affiliation}
+Pattern Recognition Group\\
+Center for Artificial Intelligence Technology\\
+Fakulti Teknologi Dan Sains Maklumat\\
+Universiti Kebangsaan Malaysia\\
+\end{affiliation}\\
+\email{zamri@ftsm.ukm.my}}
+
+\title{A review of UNICODE-compliant fonts for writing Jawi}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This paper presents a review of UNICODE-compliant fonts for writing Jawi. We also demonstrate the glyphs of the fonts in simple sentences.
+\end{abstract}
+
+\section{Introduction}
+
+There are 3 different fonts technology being used in computing; type 1, true type and open type. Currently, the trend is to move toward open type format for fonts, both for display and printing.
+
+The display of a font is done by a rendering engine.  There are four different rendering engines available ; ICU ( International Component for Unicode) , AAT ( Advanced Apple Technology ) for Macintosh, Uniscribe ( Window only )  and and Graphite ( SIL International ).
+
+
+\section{Fonts}
+
+A sample display of various fonts available for typing Jawi. Notice that all fonts doesn't display hamza(\textarab{ء}) correctly. According to jawi writing rules as stated by Dewan Bahasa dan Pustaka, the position of hamza is $3/4$ above the line. This is both a rendering engine and a font issues.
+
+
+\subsection{Arabic Typesetting}
+
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Arabic Typesetting}
+This font has a complete support for Jawi. This is a standard font in Window Vista and Window 7. However, some of the ligatures are complex.
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+
+\subsection{KFGQPC Uthman Taha Naskh}
+
+A beautiful font from King Fadh Quran Printing Complex, Madinah, Saudi Arabia that is being used to print the Quran mushaf Madinah Al-Munawarah. Unfortunately, it doesn't have a complete support for Jawi.
+
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{KFGQPC Uthman Taha Naskh}
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{Times New Roman}
+This font is complete support for Jawi. This is standard font in Window Vista and Window 7.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Times New Roman}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{K-Jawi Arial}
+This font is complete support for Jawi. This is from KEKWA ( Kementerian Kesenian dan Warisan) project for Jawi.
+
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{K-Jawi Arial}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{K-Jawi Diwani}
+This font is complete support for Jawi. This is from KEKWA ( Kementerian Kesenian dan Warisan) project for Jawi.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{K-Jawi Diwani}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{K-Jawi Nasakh}
+This font is complete support for Jawi. This is from KEKWA ( Kementerian Kesenian dan Warisan) project for Jawi.
+ The gaf \textarab{ݢ} has a rather odd position for a dot. 
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{K-Jawi Nasakh}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+% \subsection{K-Jawi Thuluth}
+% This font is complete support for Jawi. This is from KEKWA ( Kementerian Kesenian dan Warisan) project for Jawi.
+% \newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{K-Jawi Thuluth}
+% 
+% \begin{arab}
+% \begin{center}
+% کومڤولن ڤڽليديقن جاوي
+% \par  
+% ڤوست تيكنولوڬي کچرڬسن بواتن
+% \par  
+% فاکولتي تيكنولوڬي ساءين‌س معلومت
+% \par  
+% اونيۏرسيتي کبڠساءن مليسيا
+% \par  
+% \end{center}
+% \end{arab}
+
+\subsection{Scheherazade}
+This font is complete support for Jawi. This is from SIL International.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Scheherazade}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{Lateef}
+This font is complete support for Jawi. This is from SIL International.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Lateef}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{Andalus}
+This font does not have has a complete support for Jawi. This is a standard in Window Vista.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Andalus}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{Arial}
+This font  have has a complete support for Jawi. This is a standard in Window Vista/7.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Arial}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{KacstLetter}
+This font does not have has a complete support for Jawi. This font is from King Abdul Aziz Computer and Science Technology.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{KacstLetter}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{Simplified Arabic}
+This font does not have has a complete support for Jawi. This is a standard in Window Vista.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Simplified Arabic}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{Simplified Arabic Fixed}
+This font does not have has a complete support for Jawi. This is a standard in Window Vista.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Simplified Arabic Fixed}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{Traditional Arabic}
+This font does not have has a complete support for Jawi. This is a standard in Window Vista.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Traditional Arabic}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+
+\subsection{Sakkal Majalla}
+This font have has a complete support for Jawi. This is a standard in Window Vista.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Sakkal Majalla}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\subsection{Adobe Arabic}
+This font have has a complete support for Jawi. This is a standard in Window Vista.
+\newfontfamily\arabicfont[Script=Arabic,Scale=1.5]{Adobe Arabic}
+
+\begin{arab}
+\begin{center}
+کومڤولن ڤڽليديقن جاوي
+\par  
+ڤوست تيكنولوڬي کچرڬسن بواتن
+\par  
+فاکولتي تيكنولوڬي ساءين‌س معلومت
+\par  
+اونيۏرسيتي کبڠساءن مليسيا
+\par  
+\end{center}
+\end{arab}
+
+\section{Conclusion}
+
+There are currently only a few standard fonts that support Jawi ( Scheherazade, Arabic Typesetting, Arial, Adobe Arabic, 
+Lateef, Times New Roman, K-Jawi). There is an urgent need to have a locally produce Unicode-compliant Jawi font for local users.
+
+
+
+\end{document}

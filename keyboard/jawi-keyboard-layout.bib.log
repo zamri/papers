@@ -1,0 +1,43 @@
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (Web2C 2009) (format=xelatex 2009.9.29)  12 NOV 2009 13:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**jawi-keyboard-layout.bib
+(./jawi-keyboard-layout.bib.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, latvian, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, polish, port
+uguese, romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedi
+sh, turkish, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 @
+     article{patterns1991unicode,
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.1 @
+     article{patterns1991unicode,
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 494671
+ 267 string characters out of 3166758
+ 47128 words of memory out of 1500000
+ 3333 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 2000000 for 2000
+ 669 hyphenation exceptions out of 8191
+ 5i,0n,4p,56b,14s stack positions out of 3000i,500n,5000p,500000b,5000s
+No pages of output.
