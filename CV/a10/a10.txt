@@ -1,0 +1,362 @@
+             LAPORAN TAHUNAN UNTUK KENAIKAN GAJI DAN
+                   MELANGKAH TITIK PENYEMAKAN
+                                
+
+Nama: Mohd Zamri Murah
+
+Jawatan: Pensyarah
+
+UKM(PER): 5941
+
+I. Pengajaran: (termasuk PJJ/Pusat Kembangan)
+
+A. Kuliah                
+                         
+Semester,
+Sesi	Kod Kursus, Nama Kursus	Jam Per
+Semester	Jumlah
+Pelajar
+
+98/99,
+sesi 2 	ts6373 Sistem Maklumat
+Kewangan dan Kawalan	42	40
+
+98/99,
+sesi 2	ts2003 Sistem Maklumat
+Kewangan dan Kawalan	42	230
+
+98/99,
+sesi 1	ts1913 Pengenalan
+Teknologi Maklumat
+(bersama Prof. Abdul
+Razak Hamdan)	42	450
+
+97/98,
+sesi 2	ts6373 Sistem Maklumat
+Kewangan dan Kawalan	42	30
+
+97,98,
+sesi 2	ts2003 Sistem Maklumat
+Kewangan dan Kawalan
+(Program UKM-KYPM)	42	120
+
+97/98,
+sesi 2	ts2003 Sistem Maklumat
+Kewangan dan Kawalan	42	230
+
+
+97/98,
+sesi 1	Pengenalan Teknologi
+Maklumat Untuk Eksekutif
+(Program eksekutif UKM-
+NPC)	42	15
+
+97/98,
+sesi 1	ts1913 Pengenalan
+Teknologi Maklumat
+(program UKM-KYPM)	42	120
+
+97/98,
+sesi 1	qa1113 Matemmatik
+Kewangan. Program PJJ.
+(bersama dengan Noriza
+Majid) 	42	60
+
+97/98,
+sesi 1	ts1913 Pengenalan
+Teknololgi Malumat
+(bersama Prof. Abdul
+Razak Hamdan)	42	450
+
+97/98,
+sesi 1	ts1912 Pengenalan Makmal
+Teknologi Maklumat	42	450
+
+96/97,
+sesi 2	ts6373 Sistem Maklumat
+Kewangan dan Kawalan	42	30
+
+
+96/97,
+sesi 2	ts2223 Unsur-unsure Sains
+Pengurusan	42	120
+
+96/97,
+sesi 1	ts1913 Pengenalan
+Teknololgi Malumat 	42	250
+
+96/97,
+sesi 1	ts1912 Makmal Teknologi
+Maklumat	42	250
+
+96/97,
+sesi 1	ts1913 Pengenalan
+Teknologi Maklumat
+(Program UKM-KYPM)	42	120
+
+			
+
+			
+
+
+II. Penyeliaan
+
+A. Projek Kepujian (TS3085)
+                     
+ Sesi	Pelajar	Tajuk
+
+98/99	Gan Fie Nie
+(50163)	Penilaian IQ Dalam Talian
+
+
+98/99	Ng Wee Fong
+(50164)	Sistem Maklumat Insuran Hayat
+
+98/99	Lee Sook Hue
+(50168)	Perisian Statistik EzStat
+
+98/99	Ng Hooi Ling
+(50169	Sistem Maklumat Untuk Ejen
+Insuran
+
+98/99	Chong Sze Thiam
+(50176)	Sistem Aliran Kerja Berasaskan
+Web
+
+98/99	Yong Suet Yee
+(50162)	Sistem Penbinaan Laman Web
+Berasaskan Java
+
+97/98	Ooi Wan Loo
+(44974)	Sistem Laporan Kewangan
+Pelayan-Pelanggan Berasaskan
+Java untuk 
+
+97/98	Wong Kim Tung
+(44986)	Sistem E-Mel Untuk Komputer
+Peribadi
+
+97/9	Ng Shek Kee
+(43166)	Sistem Maklumat Untuk Insuran
+Hayat
+
+97/98	Foo Ying Chuan
+(43168)	Sistem Cergas Untuk Insuran
+Hayat
+
+96/97	Chang Foo Ban
+(42139)	Sistem Keselamatan Tembuk Api
+
+96/97	Yap Meow Kew 	Sistem e-dagang berasaskan
+internet
+
+96/97	Yap Bee Aik	Sistem Maklumat Pelajar
+Berasaskan Internet
+
+
+B. Projek Kepujiaan Sarjana
+
+Sesi	Pelajar	Tajuk
+
+98/99	Basmi Ibrahim
+(A59429)	Sistem Maklumat Pelajar Untuk
+Sekolah Rendah
+
+98/99	Thulasidha a/l
+Nalla Kavadan
+(P10972)	Sistem Maklumat Kewangan Untuk
+Klinik Swasta
+
+98/99	Nik Rusilawati
+Nik Mustafa
+(P12455)
+(bersama Prof.
+Abdul Razak
+Hamdan)	Pola Pencarian Maklumat
+Internet di kalangan Pelajar
+
+
+
+C. Latihan Industri
+
+
+
+III. Penerbitan/Karya Ilmiah Atau Iktisas
+
+A. Jurnal
+
+1.   Mohd Zamri Murah. Prototaip Sistem Rumi-Jawi. Jurnal Dewan
+     Bahasa, Mei 2000.
+
+2.   Mohd Zamri Murah. Prototaip Istilah Dalam Talian. Jurnal
+     Dewan Bahasa. (akan diterbitkan)
+
+B. Prosiding
+
+1.   Aziz Deraman, Abdul Razak Hamdan, Abdullah Mohd Zain, Mohd
+     Zamri Murah, Kasmiran Jumari, Abdul Rashid Abdul Rahim.
+     Sofwtare Development And Maintenance Methodology: An User
+     Computing Approach. Seminar IRPA. 1999.
+
+C. Karya Lain
+
+1.   Mohd Zamri Murah. Prototaip Istilah Dalam Talian. Laporan
+     Teknik FTSM, Mei 2000.
+
+2.   Mohd Zamri Murah. Rekabentuk Prototaip Rumi-Jawi
+     Berasaskan Komponen. Laporan Teknik FTSM/Februari
+     2000/LT87.
+
+3.   Aziz Deraman, Abdul Razak Hamdan, Abdullah Mohd Zin,
+     Kasmiran Jumari, Mohd Zamri Murah, Abdul Rashid Abdul
+     Rahim. Metodologi Pembangunan dan Penyelenggaraan
+     Perisian: Pendekatan Pengguna Akhir. Laporan Teknik
+     FTSM/Januari 1999/LT 60.
+
+4.   Abdul Razak Hamdan, Yazrina Yahya, Mohd Zamri Murah.
+     Pengenalan Teknologi Maklumat (draf penerbitan ACE-Print
+     untuk McGraw-Hill Publication.). Mei 2000. 160 mukasurat.
+
+5.   Abdul Razak Hamdan, Mohd Zamri Murah. Pengenalan Teknologi
+     Maklumat. 1995-1999. Nota Kuliah untuk kursus ts1913. 200
+     mukasurat.
+
+6.   Mohd Zamri Murah. Typesetting Jawi Document Using TeX.
+     Laporan Teknik FTSM/September 1999/LT 78.
+
+7.   Mohd Zamri Murah. E-Maklumat. Nota kursus Pengurusan
+     Maklumat di Pusat Komputer, Universiti Kebangsaan
+     Malaysia. Nov, 1999. 
+
+8.   Aziz Deraman, Abdul Razak Hamdan, Abdullah Mohd Zin,
+     Kasmiran Jumari, Mohd Zamri Murah, Abdul Rashid Abdul
+     Rahim, Shahrul Fahmy Abdul Wahab, Azizi Jefry Abu Bakar,
+     Dzulkifli Muhammad, Azmil Abdul Aziz. Piawaian Perancangan
+     Strategik Teknologi Maklumat Sektor Awam. Projek IRPA 04-
+     02-02-0002. 1999.
+
+9.   Aziz Deraman, Abdul Razak Hamdan, Abdullah Mohd Zin,
+     Kasmiran Jumari, Mohd Zamri Murah, Abdul Rashid Abdul
+     Rahim, Amna Abdul Rahman, Wong Hon Hai, Yusnita Roslan.
+     Kajian Perancangan Strategik Teknologi Maklumat di Sektor
+     Awam. Laporan IRPA 04-02-02-0002. Disember 1997.
+
+10.  Mohd Zamri Murah. Pengurusan Maklumat Internet. Nota
+     kursus Pengurusan Maklumat Internet di Pusat Komputer,
+     Universiti Kebangsaan Malaysia. 1995-1998.
+
+11.  Mohd Zamri Murah. Sistem Unix. Nota kuliah ts1912. 1995-
+     1997.
+
+
+
+IV. Rekacipta/Pembangunan Perisian
+
+Bil.	Nama Ciptaan	Status
+Penglibatan	Tarikh Dipakai/Tempat
+Digunakan
+
+1	Sistem Prototaip
+Rumi-Jawi
+Berasaskan
+komponen	sendiri	Sept, 1999. Fakulti
+
+2	Sistem Prototaip
+Istilah Dalam
+Talian	sendiri	Mei, 2000. Fakulti.
+Laman
+http://alpha.ftsm.ukm.my
+
+3	Sistem Istilah
+Berasaskan E-Mel	sendiri	Mei, 2000. Fakulti.
+Laman
+http://alpha.ftsm.ukm.my
+untuk maklumat lanjut.
+
+
+
+VI. Penyelidikan
+
+1.   Projek IRPA 04-02-02-0004. Kajian Perancangan Strategik
+     Teknologi Maklumat di Sektor Awam. 1996-1999.
+
+
+VII. Perundingan/Pengembangan
+
+1.   
+Perundingan, Pembangunan Sistem Istilah Dalam Talian.
+Bersama Bahagian Peristilahan Dewan Bahasa dan Pustaka.
+Mei 2000.
+
+2.   Perundingan, (bersama Prof. Madya Abdullah Mohd Zin).
+     Research And Development Unit, Telekom Malaysia, Jalan
+     Lumba Kuda, Kuala Lumpur. 1997.
+
+3.   Penyelaras kursus Sistem Perakaunan berkomputer untuk
+     Diploma Teknologi Maklumat, Kolej Negeri, Negeri Sembilan.
+     1997-1998.
+
+4.   Pensyarah, Kursus Pengenalan Teknologi Maklumat, Kolej
+     Yayasan Pelajaran MARA, Bangi. 1997-1998.
+
+5.   Pensyarah, Kursus Sistem Maklumat Kewangan dan Kawalan,
+     Kolej Yayasan Pelajaran MARA, Bangi. 1997-1998.
+
+6.   Penyelaras, Kursus Makmal Teknologi Maklumat untuk Diploma
+     Multimedia, Kolej Cosmopoint. 1996-1997.
+
+7.   Pensyarah, kursus Pengenalan Teknologi Maklumat untuk
+     ijazah sarjana Teknologi Maklumat UKM-NPC. 1997.
+
+8.   Pensyarah, kursus Pengenalan Internet untuk JAKIM di Pusat
+     Komputer, Universiti Kebangsaan Malaysia. 1997.
+
+
+
+VIII. Persidangan/Kolokium
+
+1.   Simposium Teknologi Maklumat 2000. Universiti Kebangsaan
+     Malaysia. 11-12 April, 20000. Peserta.
+
+2.   International Conference On Information Technology and
+     Multimedia. Universiti Tenaga Nasional (UNITEN). 28-30
+     Sept, 1999. Peserta.
+
+3.   IBM Global Campus Symposium. Legend Hotel, Kuala Lumpur.
+     March 23, 1999.
+
+4.   Fourth Annual Conference of Asia Pacific Finance
+     Association. Putra World Trade Center, Kuala Lumpur. 14-16
+     Julai 1977. Peserta.
+
+5.   Kolokuium Tahunan Fakulti Teknologi Sains Maklumat, Port
+     Dickson, Negeri Sembilan. Ogos 1997. Peserta.
+
+6.   Seminar Visual Basic. Iverson Associates, Subang Jaya,
+     Kuala Lumpur. 1997.
+
+7.   Seminar Unix Programming oleh Prof. Eric Foxley. Fakulti
+     Teknologi Sains Maklumat. 1997. 
+
+
+      
+IX. Jawatan Pentadbiran/Keahlian Dalam Jawatankuasa Dalam
+Universiti
+
+1.   Jawatankuasa Keselamatan Rangkaian Peringkat Universiti.
+     Universiti Kebangsaan Malaysia. 1995-kini.
+
+2.   Penyelaras Program Eksekutif Komputer Sains UKM-UNITAR.
+     1998-1999.
+
+3.   Penyelaras Program Komputer Sains UKM-ITM. 1995-1997.
+
+4.   Jawatankuasa Pengurusan Rangkaian Peringkat Fakulti. 1994-
+     kini.
+
+5.   Jawatankuasa Perpustakaan Peringkat Universiti. 1997-1998.
+
+
+
+X. Khidmat Masyarakat
+ 
